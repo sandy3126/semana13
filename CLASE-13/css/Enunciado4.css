@@ -1,0 +1,24 @@
+table{
+    padding: -10px;
+}
+
+thead th{
+    text-align: left;
+    padding: 10px;
+    
+}
+
+tr .color1{
+    text-align: left;
+    padding: 10px;
+    width: 300px;
+    background-color: rgb(230, 187, 194);
+}
+
+tr .color2{
+    text-align: left;
+    padding: 10px;
+    width: 300px;
+    background-color: rgb(209, 112, 77);
+    
+}

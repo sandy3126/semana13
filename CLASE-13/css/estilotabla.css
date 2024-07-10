@@ -1,0 +1,14 @@
+table{
+    border: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 5px;
+    width: 530px;
+    height: auto;
+}
+tr.color{
+    background-color: aquamarine;
+}
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+}

@@ -1,0 +1,21 @@
+.borde{
+    border-left: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+tr th{
+    text-align: left;
+    width: 150px;
+    padding: 6px;
+}
+
+tr td{
+    width: 150px;
+    padding: 7px;
+}
+.color1{
+    background-color: rgb(175, 169, 169);
+   
+}
+.color2{
+    background-color: rgb(107, 106, 106);
+}

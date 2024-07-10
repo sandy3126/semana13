@@ -1,0 +1,11 @@
+body{
+    display: block;
+    background-color: #e9bcde;
+    border-bottom: 1px solid #eeeeee;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ul, li{
+    color: red;
+}
